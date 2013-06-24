@@ -6,3 +6,6 @@ Uca latimanus
 Uca beebei
 Uca panacea
 Uca princeps
+Uca stylifera
+Uca annulipes
+Uca longisignalis
